@@ -1,0 +1,100 @@
+.card {
+    width: 360px;
+    background-color: #27292E;
+    border-radius: 8px;
+    position: relative;
+}
+
+.card__img {
+    width: 360px;
+    height: 190px;
+    border-bottom: 1px solid #4A4E57;
+}
+
+.card__wrap {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 15px 20px 15px;
+}
+
+.card__wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card__title {
+    font-family: 'Neometric';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #F4EFE9;
+    margin: 0 0 0 5px;
+}
+
+.card__button {
+    width: 100px;
+    height: 35px;
+    background: #27292E;
+    border-radius: 8px;
+    font-family: 'Neometric';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    color: #F4EFE9;
+    margin: 0;
+    outline: none;
+    border: 1px solid #EB9C73;
+}
+
+.card:hover .card__button {
+    background: linear-gradient(111.34deg, #EB8173 0%, #EB9C73 49.95%, #EFB775 100%);
+    color: #27292E;
+}
+
+.price {
+    margin: 10px 0 0;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    justify-content: inherit;
+    background: rgba(22, 23, 27, 0.6);
+    backdrop-filter: blur(6px);
+    border-radius: 4px;
+    display: inline-flex;
+    padding: 5px 10px;
+    z-index: 2;
+}
+
+.price__text {
+    font-family: 'Neometric';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 18px;
+    color: #F4EFE9;
+    margin: 0;
+}
+
+.price__span {
+    font-family: 'Neometric';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 18px;
+    background: linear-gradient(111.34deg, #EB8173 0%, #EB9C73 49.95%, #EFB775 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+    margin: 0;
+}
+
+.card__link {
+    text-decoration: none;
+}

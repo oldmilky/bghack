@@ -1,0 +1,57 @@
+.popular {
+    max-width: 1560px;
+    background-color: #222326;
+    margin: 0 auto;
+    padding: 125px 50px 175px 50px;
+    border-bottom: 1px solid #4A4E57;
+}
+
+@media screen and (max-width: 850px) {
+    .popular {
+        padding: 75px 20px 125px 20px;
+    }
+}
+
+.popular__span {
+    font-family: 'Neometric';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    margin: 0 0 50px 0;
+    background: linear-gradient(111.34deg, #EB8173 0%, #EB9C73 49.95%, #EFB775 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+.popular__title {
+    font-family: 'Neometric';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    margin: 0 0 100px 0;
+    color: #F4EFE9;
+    text-align: center;
+}
+
+@media screen and (max-width: 850px) {
+    .popular__title {
+        margin: 0 0 60px 0;
+    }
+}
+
+.popular__cards {
+    display: grid;
+    gap: 25px;
+    grid-template-columns: repeat(auto-fill, 370px);
+    justify-content: center;
+}
+
+@media screen and (max-width: 850px) {
+    .popular__cards {
+        gap: 40px;
+    }
+}

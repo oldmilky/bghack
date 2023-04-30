@@ -1,0 +1,14 @@
+.catalog {
+    max-width: 1560px;
+    background-color: #222326;
+    margin: 0 auto;
+    padding: 75px 50px 200px 50px;
+    border-bottom: 1px solid #4A4E57;
+}
+
+.catalog__container {
+    display: grid;
+    gap: 25px;
+    grid-template-columns: repeat(auto-fill, 370px);
+    justify-content: center;
+}

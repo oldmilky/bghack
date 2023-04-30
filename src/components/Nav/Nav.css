@@ -1,0 +1,53 @@
+.nav {
+    max-width: 1560px;
+    background-color: #222326;
+    margin: 0 auto;
+    padding: 50px 50px 50px 50px;
+    border-bottom: 1px solid #2B2C30;
+}
+
+@media screen and (max-width: 850px) {
+    .nav {
+        padding: 50px 20px 50px 20px;
+    }
+}
+
+.nav__container {
+    display: flex;
+    align-items: center;
+}
+
+.nav__link {
+    text-decoration: none;
+}
+
+.nav__image_home {
+    width: 23px;
+    height: 23px;
+}
+
+.nav__image_arrow {
+    margin: 0 15px 0 15px;
+    width: 17px;
+    height: 17px;
+}
+
+.nav__text {
+    font-family: 'Neometric';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #F4EFE9;
+    margin: 0;
+}
+
+.nav__text_inactive {
+    font-family: 'Neometric';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #4A4E57;
+    margin: 0;
+}
