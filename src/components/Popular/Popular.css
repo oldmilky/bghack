@@ -13,13 +13,13 @@
 }
 
 .popular__span {
-    font-family: 'Neometric';
+    font-family: 'Nunito';
     font-style: normal;
-    font-weight: 600;
-    font-size: 24px;
-    line-height: 29px;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
     margin: 0 0 50px 0;
-    background: linear-gradient(111.34deg, #EB8173 0%, #EB9C73 49.95%, #EFB775 100%);
+    background: linear-gradient(111.34deg, #EBA573 0%, #EBBB73 49.95%, #F0D77D 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -27,11 +27,11 @@
 }
 
 .popular__title {
-    font-family: 'Neometric';
+    font-family: 'Nunito';
     font-style: normal;
-    font-weight: 600;
-    font-size: 24px;
-    line-height: 29px;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
     margin: 0 0 100px 0;
     color: #F4EFE9;
     text-align: center;
@@ -54,4 +54,39 @@
     .popular__cards {
         gap: 40px;
     }
+}
+
+
+.popular_empty {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    margin: 100px 0 100px;
+}
+
+.popular_empty__title {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 38px;
+    background: linear-gradient(111.34deg, #EBA573 0%, #EBBB73 49.95%, #F0D77D 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+    margin: 0;
+}
+
+.popular_empty__text {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    color: #F4EFE9;
+    margin: 30px 0 0;
+    max-width: 480px;
 }

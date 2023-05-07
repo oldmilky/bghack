@@ -33,21 +33,26 @@
 }
 
 .nav__text {
-    font-family: 'Neometric';
+    font-family: 'Nunito';
     font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 19px;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px;
     color: #F4EFE9;
     margin: 0;
 }
 
+.nav__text:hover {
+    color: #80848D;
+    transition: linear 0.2s;
+}
+
 .nav__text_inactive {
-    font-family: 'Neometric';
+    font-family: 'Nunito';
     font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 19px;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px;
     color: #4A4E57;
     margin: 0;
 }

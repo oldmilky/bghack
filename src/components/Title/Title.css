@@ -27,9 +27,9 @@
 }
 
 .title__subtitle {
-    font-family: 'Neometric';
+    font-family: 'Nunito';
     font-style: normal;
-    font-weight: 600;
+    font-weight: 700;
     font-size: 20px;
     line-height: 24px;
     color: #F4EFE9;
@@ -44,14 +44,14 @@
 }
 
 .title__subtitle_span {
-    font-family: 'Neometric';
+    font-family: 'Nunito';
     font-style: normal;
-    font-weight: 600;
+    font-weight: 700;
     font-size: 20px;
     line-height: 24px;
     color: #F4EFE9;
     margin: 0 0 30px 0;
-    background: linear-gradient(111.34deg, #EB8173 0%, #EB9C73 49.95%, #EFB775 100%);
+    background: linear-gradient(111.34deg, #EBA573 0%, #EBBB73 49.95%, #F0D77D 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -66,13 +66,13 @@
 }
 
 .title__title_span {
-    font-family: 'Neometric';
+    font-family: 'Nunito';
     font-style: normal;
-    font-weight: 600;
+    font-weight: 800;
     font-size: 36px;
     line-height: 43px;
     margin: 0 0 5px 0;
-    background: linear-gradient(111.34deg, #EB8173 0%, #EB9C73 49.95%, #EFB775 100%);
+    background: linear-gradient(111.34deg, #EBA573 0%, #EBBB73 49.95%, #F0D77D 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -87,9 +87,9 @@
 }
 
 .title__title {
-    font-family: 'Neometric';
+    font-family: 'Nunito';
     font-style: normal;
-    font-weight: 600;
+    font-weight: 800;
     font-size: 36px;
     line-height: 43px;
     margin: 0 0 30px 0;
@@ -104,9 +104,9 @@
 }
 
 .title__text {
-    font-family: 'Neometric';
+    font-family: 'Nunito';
     font-style: normal;
-    font-weight: 400;
+    font-weight: 500;
     font-size: 18px;
     line-height: 22px;
     color: #AAA6A2;
@@ -122,20 +122,26 @@
 }
 
 .title__button {
-    font-family: 'Neometric';
+    font-family: 'Nunito';
     font-style: normal;
-    font-weight: 500;
+    font-weight: 600;
     font-size: 20px;
     line-height: 24px;
     color: #F4EFE9;
     margin: 0;
     width: 180px;
     height: 45px;
-    background: linear-gradient(111.34deg, #EB8173 0%, #EB9C73 49.95%, #EFB775 100%);
+    background: linear-gradient(111.34deg, #EBA573 0%, #EBBB73 49.95%, #F0D77D 100%);
     border-radius: 8px;
     outline: none;
     border: none;
     cursor: pointer;
+    transition: linear 0.4s;
+}
+
+.title__button:hover {
+    color: #222326;
+    transition: linear 0.4s;
 }
 
 @media screen and (max-width: 850px) {

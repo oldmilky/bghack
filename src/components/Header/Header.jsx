@@ -1,3 +1,4 @@
+import { motion } from "framer-motion";
 import { NavLink } from "react-router-dom";
 import logo from "../../images/LOGO.svg";
 import catalog from "../../images/header__catalog.svg";
@@ -5,12 +6,29 @@ import discord from "../../images/header__discord.svg";
 import faq from "../../images/header__faq.svg";
 import home from "../../images/header__home.svg";
 import telegram from "../../images/header__telegram.svg";
+import warranty from "../../images/header__warranty.svg";
 import "./Header.css";
 
 function Header() {
+  const textAnimation = {
+    hidden: {
+      y: -50,
+      opacity: 0,
+    },
+    visible: custom => ({
+      y: 0,
+      opacity: 1,
+      transition: { delay: custom * 0.2 },
+    }),
+  };
+
   return (
-    <header className="header">
-      <div className="header__container">
+    <motion.header initial="hidden" whileInView="visible" className="header">
+      <motion.div
+        className="header__container"
+        custom={1}
+        variants={textAnimation}
+      >
         <div className="header__wrap">
           <NavLink className="header__link" to="/">
             <div className="header__wrapper">
@@ -24,13 +42,23 @@ function Header() {
               <p className="header__home">Каталог</p>
             </div>
           </NavLink>
+          <NavLink className="header__link" to="/warranty">
+            <div className="header__wrapper">
+              <img
+                className="header__home_image"
+                src={warranty}
+                alt="warranty"
+              />
+              <p className="header__home">Гарантии</p>
+            </div>
+          </NavLink>
         </div>
         <NavLink className="header__link" to="/">
           <img className="header__logo" src={logo} alt="logo" />
         </NavLink>
         <div className="header__wrap">
           <NavLink className="header__link" to="/faq">
-            <div className="header__wrapper">
+            <div className="header__wrapper_faq">
               <img className="header__home_image" src={faq} alt="faq" />
               <p className="header__home">FAQ</p>
             </div>
@@ -38,7 +66,7 @@ function Header() {
           <div className="header__wrapper">
             <a
               className="header__contact_link"
-              href="aa"
+              href="https://discord.gg/ZZrGeRAKR8"
               target="_blank"
               rel="noreferrer"
             >
@@ -46,7 +74,7 @@ function Header() {
             </a>
             <a
               className="header__contact_link"
-              href="aa"
+              href="https://t.me/+4M4G26Q2Gqc4ZDM6"
               target="_blank"
               rel="noreferrer"
             >
@@ -54,8 +82,8 @@ function Header() {
             </a>
           </div>
         </div>
-      </div>
-    </header>
+      </motion.div>
+    </motion.header>
   );
 }
 

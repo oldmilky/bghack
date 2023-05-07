@@ -1,0 +1,80 @@
+.warranty {
+    max-width: 1560px;
+    background-color: #222326;
+    margin: 0 auto;
+    padding: 150px 50px 200px 50px;
+    border-bottom: 1px solid #4A4E57;
+}
+
+@media screen and (max-width: 850px) {
+    .warranty {
+        padding: 100px 20px 150px 20px;
+    }
+}
+
+.warranty__container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    justify-content: center;
+}
+
+.warranty__wrap {
+    background-color: #27292E;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.warranty__icon {
+    width: 50px;
+    height: 50px;
+}
+
+.warranty__title {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 22px;
+    line-height: 26px;
+    color: #F4EFE9;
+    margin: 30px 0 15px 0;
+    background: linear-gradient(111.34deg, #EBA573 0%, #EBBB73 49.95%, #F0D77D 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+.warranty__subtitle {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    color: #F4EFE9;
+    transition: linear 0.2s;
+    margin: 0;
+    text-align: center;
+}
+
+.warranty__link {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    background: linear-gradient(111.34deg, #EBA573 0%, #EBBB73 49.95%, #F0D77D 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+    border-bottom: 1px solid #EBC273;
+    transition: linear 0.2s;
+    margin: 0;
+    text-align: center;
+}

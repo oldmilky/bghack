@@ -12,3 +12,42 @@
     grid-template-columns: repeat(auto-fill, 370px);
     justify-content: center;
 }
+
+.catalog__link {
+    text-decoration: none;
+}
+
+
+.catalog_empty {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    margin: 100px 0 100px;
+}
+
+.catalog_empty__title {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 38px;
+    background: linear-gradient(111.34deg, #EBA573 0%, #EBBB73 49.95%, #F0D77D 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+    margin: 0;
+}
+
+.catalog_empty__text {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    color: #F4EFE9;
+    margin: 30px 0 0;
+    max-width: 480px;
+}

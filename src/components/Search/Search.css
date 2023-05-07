@@ -1,0 +1,32 @@
+.search__wrap {
+    width: 250px;
+    height: 30px;
+    padding: 10px 15px 10px 15px;
+    background-color: #27292E;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    margin: 0 0 0 20px;
+}
+
+@media screen and (max-width: 575px) {
+    .search__wrap {
+        margin: 40px 0 0;
+    }
+}
+
+.search_image {
+    margin: 0 5px 0 0;
+}
+
+.search__input {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #F4EFE9;
+    background-color: #27292E;
+    outline: none;
+    border: none;
+}

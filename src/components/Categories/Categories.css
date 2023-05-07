@@ -45,72 +45,48 @@
     width: 100%;
     display: flex;
     align-items: center;
-    gap: 20px;
+    gap: 15px;
 }
 
 .categories__button_active {
-    font-family: 'Neometric';
+    font-family: 'Nunito';
     font-style: normal;
-    font-weight: 500;
-    font-size: 15px;
-    line-height: 18px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
     color: #222326;
     margin: 0;
     border-radius: 8px;
     outline: none;
     border: none;
-    background: linear-gradient(111.34deg, #EB8173 0%, #EB9C73 49.95%, #EFB775 100%);
+    background: linear-gradient(111.34deg, #EBA573 0%, #EBBB73 49.95%, #F0D77D 100%);
     padding: 10px 15px 10px 15px;
     cursor: pointer;
     flex: 0 0 auto;
+    transition: linear 0.3s;
 }
 
 .categories__button {
-    font-family: 'Neometric';
+    font-family: 'Nunito';
     font-style: normal;
-    font-weight: 500;
-    font-size: 15px;
-    line-height: 18px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
     color: #F4EFE9;
     margin: 0;
     border-radius: 8px;
     outline: none;
-    border: 1px solid #EB9C73;
+    border: 1px solid #EBC273;
     background-color: #222326;
     padding: 10px 15px 10px 15px;
     cursor: pointer;
     flex: 0 0 auto;
+    transition: linear 0.3s;
 }
 
-.categories__wrap {
-    width: 250px;
-    height: 30px;
-    padding: 10px 15px 10px 15px;
-    background-color: #27292E;
-    border-radius: 8px;
-    display: flex;
-    align-items: center;
-    margin: 0 0 0 20px;
-}
-
-@media screen and (max-width: 575px) {
-    .categories__wrap {
-        margin: 40px 0 0;
-    }
-}
-
-.categories__search_image {
-    margin: 0 5px 0 0;
-}
-
-.categories__search {
-    font-family: 'Neometric';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 19px;
-    color: #F4EFE9;
-    background-color: #27292E;
-    outline: none;
-    border: none;
+.categories__button:hover {
+    transition: linear 0.3s;
+    background: linear-gradient(111.34deg, #EBA573 0%, #EBBB73 49.95%, #F0D77D 100%);
+    color: #222326;
+    border: 1px solid #222326;
 }

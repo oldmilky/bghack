@@ -5,11 +5,11 @@
 }
 
 .status__text {
-    font-family: 'Neometric';
+    font-family: 'Nunito';
     font-style: normal;
-    font-weight: 600;
-    font-size: 16px;
-    line-height: 20px;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 21px;
     color: #FFFFFF;
     margin: 0 8px 0 0;
 }
@@ -29,40 +29,40 @@
 }
 
 .undetect__text {
-    font-family: 'Neometric';
+    font-family: 'Nunito';
     font-style: normal;
-    font-weight: 600;
-    font-size: 16px;
-    line-height: 20px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
     color: #47A75C;
     margin: 0 0 0 5px;
 }
 
 .undetectmini__text {
-    font-family: 'Neometric';
+    font-family: 'Nunito';
     font-style: normal;
-    font-weight: 500;
-    font-size: 14px;
+    font-weight: 700;
+    font-size: 15px;
     line-height: 18px;
     color: #47A75C;
     margin: 0 0 0 5px;
 }
 
 .onupdate__text {
-    font-family: 'Neometric';
+    font-family: 'Nunito';
     font-style: normal;
-    font-weight: 600;
-    font-size: 16px;
-    line-height: 20px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
     color: #218AC6;
     margin: 0 0 0 5px;
 }
 
 .onupdatemini__text {
-    font-family: 'Neometric';
+    font-family: 'Nunito';
     font-style: normal;
-    font-weight: 500;
-    font-size: 14px;
+    font-weight: 700;
+    font-size: 15px;
     line-height: 18px;
     color: #218AC6;
     margin: 0 0 0 5px;

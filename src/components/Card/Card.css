@@ -5,10 +5,16 @@
     position: relative;
 }
 
+.card__container {
+    border-radius: 8px;
+}
+
 .card__img {
     width: 360px;
     height: 190px;
     border-bottom: 1px solid #4A4E57;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
 }
 
 .card__wrap {
@@ -25,11 +31,11 @@
 }
 
 .card__title {
-    font-family: 'Neometric';
+    font-family: 'Nunito';
     font-style: normal;
-    font-weight: 500;
-    font-size: 18px;
-    line-height: 22px;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 24px;
     color: #F4EFE9;
     margin: 0 0 0 5px;
 }
@@ -39,20 +45,24 @@
     height: 35px;
     background: #27292E;
     border-radius: 8px;
-    font-family: 'Neometric';
+    font-family: 'Nunito';
     font-style: normal;
-    font-weight: 500;
-    font-size: 15px;
-    line-height: 18px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
     color: #F4EFE9;
     margin: 0;
     outline: none;
-    border: 1px solid #EB9C73;
+    border: 1px solid #EBC273;
+    transition: linear 0.5s;
+    cursor: pointer;
 }
 
 .card:hover .card__button {
-    background: linear-gradient(111.34deg, #EB8173 0%, #EB9C73 49.95%, #EFB775 100%);
+    background: linear-gradient(111.34deg, #EBA573 0%, #EBBB73 49.95%, #F0D77D 100%);
     color: #27292E;
+    transition: linear 0.5s;
+    cursor: pointer;
 }
 
 .price {
@@ -72,22 +82,22 @@
 }
 
 .price__text {
-    font-family: 'Neometric';
+    font-family: 'Nunito';
     font-style: normal;
     font-weight: 600;
-    font-size: 14px;
-    line-height: 18px;
+    font-size: 16px;
+    line-height: 19px;
     color: #F4EFE9;
     margin: 0;
 }
 
 .price__span {
-    font-family: 'Neometric';
+    font-family: 'Nunito';
     font-style: normal;
-    font-weight: 600;
-    font-size: 14px;
-    line-height: 18px;
-    background: linear-gradient(111.34deg, #EB8173 0%, #EB9C73 49.95%, #EFB775 100%);
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    background: linear-gradient(111.34deg, #EBA573 0%, #EBBB73 49.95%, #F0D77D 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -97,4 +107,8 @@
 
 .card__link {
     text-decoration: none;
+}
+
+.card__logo {
+    height: 28px;
 }

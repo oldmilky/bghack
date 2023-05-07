@@ -1,37 +1,89 @@
-import search from "../../images/categories__search.svg";
+import axios from "axios";
+import { motion } from "framer-motion";
+import { useEffect, useState } from "react";
+import { useDispatch, useSelector } from "react-redux";
+import { setCategoryId } from "../../redux/slices/filterSlice";
+import Search from "../Search/Search";
 import "./Categories.css";
 
 function Categories() {
+  const textAnimation = {
+    hidden: {
+      x: 80,
+      opacity: 0,
+    },
+    visible: custom => ({
+      x: 0,
+      opacity: 1,
+      transition: { delay: custom * 0.2 },
+    }),
+  };
+
+  const buttonAnimation = {
+    hidden: {
+      x: -80,
+      opacity: 0,
+    },
+    visible: custom => ({
+      x: 0,
+      opacity: 1,
+      transition: { delay: custom * 0.2 },
+    }),
+  };
+
+  const dispatch = useDispatch();
+
+  const categoryId = useSelector(state => state.filter.categoryId);
+
+  const [categoriesData, setCategoriesData] = useState({ buttons: [] });
+
+  const onClickCategory = id => {
+    dispatch(setCategoryId(id));
+  };
+
+  useEffect(() => {
+    const fetchButton = async () => {
+      const result = await axios.get(
+        "https://644ea5454e86e9a4d8fe278b.mockapi.io/buttons"
+      );
+      setCategoriesData(result.data[0]);
+    };
+    fetchButton();
+  }, []);
+
   return (
-    <section className="categories">
+    <motion.section
+      className="categories"
+      initial="hidden"
+      whileInView="visible"
+    >
       <div className="categories__container">
-        <div className="categories__buttons">
+        <motion.div
+          className="categories__buttons"
+          custom={1}
+          variants={buttonAnimation}
+        >
           <div className="categories__type">
-            <button className="categories__button">ALL</button>
-            <button className="categories__button_active">Escape From Tarkov</button>
-            <button className="categories__button">War Thunder</button>
-            <button className="categories__button">DayZ</button>
-            <button className="categories__button">Lost Light</button>
-            <button className="categories__button">Modern Warfare 2 || Warzone 2</button>
-            <button className="categories__button">Rust</button>
-            <button className="categories__button">Valorant</button>
-            <button className="categories__button">Squad</button>
-            <button className="categories__button">Apex Legends</button>
-            <button className="categories__button">SCUM</button>
-            <button className="categories__button">Arma 3</button>
-            <button className="categories__button">Dead Side</button>
+            {categoriesData.buttons.map((value, index) => (
+              <button
+                className={
+                  categoryId === index
+                    ? "categories__button_active"
+                    : "categories__button"
+                }
+                key={index}
+                onClick={() => onClickCategory(index)}
+              >
+                {value}
+              </button>
+            ))}
           </div>
-        </div>
-        <div className="categories__wrap">
-          <img className="categories__search_image" src={search} alt="search" />
-          <input
-            className="categories__search"
-            type="text"
-            placeholder="Поиск чита"
-          />
-        </div>
+        </motion.div>
+        <motion.div custom={1} variants={textAnimation}>
+          <Search />
+        </motion.div>
       </div>
-    </section>
+    </motion.section>
   );
 }
 

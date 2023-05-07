@@ -76,27 +76,38 @@
 }
 
 .footer__title {
-    font-family: 'Neometric';
+    font-family: 'Nunito';
     font-style: normal;
-    font-weight: 600;
-    font-size: 20px;
-    line-height: 24px;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 29px;
     color: #4A4E57;
     margin: 0 0 40px 0;
 }
 
 .footer__text {
-    font-family: 'Neometric';
+    font-family: 'Nunito';
     font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 19px;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px;
     color: #F4EFE9;
+    margin: 0;
+    transition: linear 0.2s;
+    cursor: pointer;
+}
+
+.footer__motion_text {
     margin: 0 0 20px 0;
 }
 
-.footer__text:last-of-type {
+.footer__motion_text:last-of-type {
     margin: 0;
+}
+
+.footer__text:hover {
+    color: #80848D;
+    transition: linear 0.2s;
 }
 
 .footer__contact {
@@ -147,21 +158,21 @@
 }
 
 .footer__author_text {
-    font-family: 'Neometric';
+    font-family: 'Nunito';
     font-style: normal;
-    font-weight: 500;
-    font-size: 15px;
-    line-height: 17px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
     color: #F4EFE9;
     margin: 0;
 }
 
 .footer__author_text-dev {
-    font-family: 'Neometric';
+    font-family: 'Nunito';
     font-style: normal;
-    font-weight: 500;
-    font-size: 15px;
-    line-height: 17px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
     color: #F4EFE9;
     margin: 0;
 }
@@ -173,12 +184,12 @@
 }
 
 .footer__author_span {
-    font-family: 'Neometric';
+    font-family: 'Nunito';
     font-style: normal;
-    font-weight: 500;
+    font-weight: 700;
     font-size: 16px;
     line-height: 19px;
-    background: linear-gradient(111.34deg, #EB8173 0%, #EB9C73 49.95%, #EFB775 100%);
+    background: linear-gradient(111.34deg, #EBA573 0%, #EBBB73 49.95%, #F0D77D 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;

@@ -56,6 +56,18 @@
     justify-content: center;
 }
 
+.header__wrapper_faq {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@media screen and (max-width: 460px) {
+    .header__wrapper_faq {
+        display: none;
+    }
+}
+
 .header__home_image {
     margin: 0 10px 0 0;
 }
@@ -67,12 +79,19 @@
 }
 
 .header__home {
-    font-family: 'Neometric';
+    font-family: 'Nunito';
     font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 19px;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
     color: #F4EFE9;
+    transition: linear 0.2s;
+    margin: 0;
+}
+
+.header__home:hover {
+    color: #80848D;
+    transition: linear 0.2s;
 }
 
 @media screen and (max-width: 850px) {
