@@ -1,622 +1,574 @@
 [
-    {
-      "id": "0",
-      "name": "VX",
-      "gameTypeLink": "eft",
-      "status": "Undetected",
-      "image1": "https://bghack.xyz/static/media/vx%204.png",
-      "image2": "https://bghack.xyz/static/media/vx3.png",
-      "image3": "https://bghack.xyz/static/media/vx2.png",
-      "image4": "https://bghack.xyz/static/media/vx%201%20%282%29.png",
-      "logoGame": "https://bghack.xyz/static/media/tarkov__logo.png",
-      "desc": "Представляем вашему вниманию чит по приемлимой цене с хорошим функционалом от надежных разработчиков.",
-      "proc": [
-        "Intel",
-        "AMD"
-      ],
-      "os": [
-        "Windows 10"
-      ],
-      "aimbot": [
-        "Silent Aimbot",
-        "Vector Aimbot",
-        "Prediction",
-        "Humanized Smoothing",
-        "Randomization Settings",
-        "Customizable FOV",
-        "Bone Selection",
-        "Different Aim Keys"
-      ],
-      "esp": [
-        "Scavs Raiders PMC Player Scavs",
-        "Bone Esp",
-        "Friend system",
-        "Name Esp",
-        "Player Weapons",
-        "Health Bar",
-        "Distance",
-        "Item Esp",
-        "Loot Filter",
-        "Custom Loot Filter",
-        "Grenade Esp",
-        "Crosshair Esp",
-        "Display KD",
-        "Loadout Value",
-        "Display Loadout",
-        "Extract Esp"
-      ],
-      "misc": [
-        "No Recoil",
-        "No Sway",
-        "Instant ADS",
-        "Unlimited Stamina",
-        "Air Walk",
-        "Thermal Vision",
-        "Night Vision",
-        "Loot Through Walls",
-        "Moon Jump",
-        "No Visor"
-      ],
-      "day1": 390,
-      "day7": 1950,
-      "day30": 3900,
-      "day1Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3722743&lang=ru-RU",
-      "day7Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3735524&lang=ru-RU",
-      "day30Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3735529&lang=ru-RU",
-      "popularGames": true,
-      "category": "1",
-      "rating": 9
-    },
-    {
-      "id": "1",
-      "name": "Chams",
-      "gameTypeLink": "eft",
-      "status": "Undetected",
-      "image1": "https://bghack.xyz/static/media/619f0c94090c412a4a22ceb2d58010279a3aea0f.jpg",
-      "image2": "",
-      "image3": "https://bghack.xyz/static/media/1.png",
-      "image4": "https://bghack.xyz/static/media/chams_47_7j1oKAUtsH2HooCQcL9k.png",
-      "logoGame": "https://bghack.xyz/static/media/tarkov__logo.png",
-      "desc": "Представляю вашему вниманию продукт EFT ESP  ЧАМС— чит для Таркова, который содержит в себе только вх статус undetected составляет более полу года. Ниразу не детектился, 0 банов, На данный момент самый безопасный софт.",
-      "proc": [
-        "Intel",
-        "AMD"
-      ],
-      "os": [
-        "Windows 10"
-      ],
-      "esp": [
-        "Chams Player",
-        "Chams Bots",
-        "Chams Boss"
-      ],
-      "day1": 290,
-      "day7": 900,
-      "day30": 1800,
-      "day1Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3735829&lang=ru-RU",
-      "day7Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3735830&lang=ru-RU",
-      "day30Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3735831&lang=ru-RU",
-      "popularGames": true,
-      "category": "1",
-      "rating": 4
-    },
-    {
-      "id": "2",
-      "name": "BSOD",
-      "gameTypeLink": "eft",
-      "status": "Undetected",
-      "image1": "https://bghack.xyz/static/media/BSOD%20VIS.png",
-      "image2": "https://bghack.xyz/static/media/BSOD%20AIM.png",
-      "image3": "https://bghack.xyz/static/media/BSOD.png",
-      "image4": "https://bghack.xyz/static/media/BSOD%20MISC.png",
-      "logoGame": "https://bghack.xyz/static/media/tarkov__logo.png",
-      "desc": "Хороший чит с достойным функционалом по небольшой цене, подходит для рмт и легит игры.",
-      "proc": [
-        "Intel",
-        "AMD"
-      ],
-      "os": [
-        "Windows 10"
-      ],
-      "aimbot": [
-        "Player Aimbot",
-        "Scavenger Toggle",
-        "Aimbot FOV",
-        "Customizable FOV Size And Style",
-        "Custom Aimbone",
-        "Custom Distance"
-      ],
-      "esp": [
-        "Player Name",
-        "Health Bar",
-        "Skeleton",
-        "Scavengers (Boss, Raiders, Followers)",
-        "Corpse",
-        "Friendly Player Distinction ",
-        "Custom Draw Distance",
-        "Show Items",
-        "Price Scale",
-        "Visuals Containers",
-        "Custom Draw Distance",
-        "Price Scale Based On Total Container Cost",
-        "PMC Extracts",
-        "Grenade Box And Name"
-      ],
-      "misc": [
-        "Remove Recoil",
-        "No Weapon Sway",
-        "Remove Stamina Loss",
-        "Remove Helmet Visor",
-        "Thermal Vision",
-        "Night Vision"
-      ],
-      "day1": 490,
-      "day7": 1490,
-      "day30": 2990,
-      "day1Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3735860&lang=ru-RU",
-      "day7Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3736783&lang=ru-RU",
-      "day30Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3736785&lang=ru-RU",
-      "popularGames": true,
-      "category": "1",
-      "rating": 5
-    },
-    {
-      "id": "3",
-      "name": "Sugar",
-      "gameTypeLink": "eft",
-      "status": "Undetected",
-      "image1": "https://bghack.xyz/static/media/sugareft3.png",
-      "image2": "https://bghack.xyz/static/media/sugar.png",
-      "image3": "https://bghack.xyz/static/media/sugar1.png",
-      "image4": "https://bghack.xyz/static/media/sugar4.png",
-      "logoGame": "https://bghack.xyz/static/media/tarkov__logo.png",
-      "desc": "Проверенный приватный  чит SUGAR для Escape From Tarkov, некоторый функции которого взяты из популярного ABS Hack для EFT. Данное ПО не садит FPS и отлично подходит для легитной и полу-рейдж игры.",
-      "proc": [
-        "Intel",
-        "AMD"
-      ],
-      "os": [
-        "Windows 10"
-      ],
-      "aimbot": [
-        "Enable (Silent)",
-        "Bone (Head/Neck/Chest)",
-        "Aimbot FOV"
-      ],
-      "esp": [
-        "Max distance",
-        "Type",
-        "Box",
-        "Chams",
-        "Skeleton",
-        "Health Bar",
-        "Distance",
-        "Armor bar",
-        "Level",
-        "K/D",
-        "Price"
-      ],
-      "misc": [
-        "Remove Recoil",
-        "No Weapon Sway",
-        "Remove Stamina Loss",
-        "Remove Helmet Visor",
-        "Hight jump",
-        "Instant examine",
-        "Instant search",
-        "Loot through walls"
-      ],
-      "day1": 490,
-      "day7": 2490,
-      "day30": 3990,
-      "day1Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3736799&lang=ru-RU",
-      "day7Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3736800&lang=ru-RU",
-      "day30Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3736801&lang=ru-RU",
-      "popularGames": true,
-      "category": "1",
-      "rating": 4
-    },
-    {
-      "id": "4",
-      "name": "Neverwin ",
-      "gameTypeLink": "eft",
-      "status": "Undetected",
-      "image1": "https://bghack.xyz/static/media/neverwin.png",
-      "image2": "https://bghack.xyz/static/media/neverwin1.png",
-      "image3": "https://bghack.xyz/static/media/neverwin2.png",
-      "image4": "",
-      "logoGame": "https://bghack.xyz/static/media/tarkov__logo.png",
-      "desc": "Интересный чит для EFT NeverWin.  Который имеет все необходимые функции. Отличный аим,и фильтр лута.",
-      "proc": [
-        "Intel",
-        "AMD"
-      ],
-      "os": [
-        "Windows 10"
-      ],
-      "aimbot": [
-        "Player Aimbot",
-        "Scavenger Toggle",
-        "Aimbot FOV",
-        "Customizable FOV Size And Style",
-        "Custom Aimbone",
-        "Custom Distance",
-        "Engine Prediction",
-        "Auto Shoot",
-        "Silent Melee",
-        "Custom Aim Bone",
-        "Visibility Check"
-      ],
-      "esp": [
-        "Player Name",
-        "Health Bar",
-        "Skeleton",
-        "Scavengers (Boss, Raiders, Followers)",
-        "Corpse",
-        "Friendly Player Distinction ",
-        "Custom Draw Distance",
-        "Show Items",
-        "Price Scale",
-        "Visuals Containers",
-        "Custom Draw Distance",
-        "Price Scale Based On Total Container Cost",
-        "PMC Extracts",
-        "Grenade Box And Name"
-      ],
-      "misc": [
-        "Remove Recoil",
-        "No Weapon Sway",
-        "Remove Stamina Loss",
-        "Remove Helmet Visor",
-        "Thermal Vision",
-        "Night Vision",
-        "No Animations",
-        "No Malfunctions",
-        "Gun Laser",
-        "Quick Load / Unload",
-        "No Camera Shake Effects",
-        "Double Search",
-        "Force Pickup Quest Items",
-        "Ping Bypass"
-      ],
-      "day1": 590,
-      "day7": 3590,
-      "day30": 6990,
-      "day1Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3736828&lang=ru-RU",
-      "day7Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3736829&lang=ru-RU",
-      "day30Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3736830&lang=ru-RU",
-      "popularGames": true,
-      "category": "1",
-      "rating": 4
-    },
-    {
-      "id": "5",
-      "name": "MSON Private ",
-      "gameTypeLink": "eft",
-      "status": "Undetected",
-      "image1": "https://bghack.xyz/static/media/mson3.png",
-      "image2": "https://bghack.xyz/static/media/mson1.png",
-      "image3": "https://bghack.xyz/static/media/mson2.png",
-      "image4": "",
-      "logoGame": "https://bghack.xyz/static/media/tarkov__logo.png",
-      "desc": "Предcтавляем вам слотовый приватный чит MSON для Escape From Tarkov. Данный чит является одним из мощнейших на рынке софтов для Escape From Tarkov и имеет очень интересные функции, и очень хороший фильтр лута. Также, данный софт продается исключительно по слотам, и только для наших постоянных клиентов. если вы таковым не являетесь, вам будет отказано в продаже.",
-      "proc": [
-        "Intel",
-        "AMD"
-      ],
-      "os": [
-        "Windows 10"
-      ],
-      "aimbot": [
-        " Silent aim",
-        "Aimbot FOV",
-        "Customizable FOV Size And Style",
-        " Aim spot"
-      ],
-      "esp": [
-        "Bounding box",
-        "Health Bar",
-        "Skeleton",
-        "Show Name",
-        "Show weapon",
-        "Show grenades",
-        "Show extractions",
-        "Show Items",
-        "Price Scale",
-        "Visuals Containers",
-        "Custom Draw Distance",
-        "Price Scale Based On Total Container Cost"
-      ],
-      "misc": [
-        "Remove Recoil",
-        "No Weapon Sway",
-        " Interactive noclip",
-        "Remove Helmet Visor",
-        "Thermal Vision",
-        "Night Vision",
-        "Zoom",
-        "Noclip gun",
-        "Speed hack",
-        "Fast magazine load / reload",
-        "Multi search for loot",
-        "Instant examine for loot",
-        "Hide overlay key",
-        "Save cpu"
-      ],
-      "closedCheat": true,
-      "day30": 9990,
-      "popularGames": true,
-      "category": "1",
-      "rating": 3
-    },
-    {
-      "id": "6",
-      "name": "Chams Plus ",
-      "gameTypeLink": "eft",
-      "status": "Undetected",
-      "image1": "https://bghack.xyz/static/media/chamsfull.png",
-      "image2": "https://bghack.xyz/static/media/chamsfull2.png",
-      "image3": "https://bghack.xyz/static/media/chamsfullmenu.png",
-      "image4": "",
-      "logoGame": "https://bghack.xyz/static/media/tarkov__logo.png",
-      "desc": "Представляем к вашему вниманию продукт Chams full, это улучшенная версия, с классными функциями, всеми любимого ESP Chams,который на протяжении года держит статус Undetected.",
-      "proc": [
-        "Intel",
-        "AMD"
-      ],
-      "os": [
-        "Windows 10"
-      ],
-      "esp": [
-        "Teammate Visiblity",
-        "PMC Players Visiblity",
-        "Scavenger Players Visiblity",
-        "Scavengers (Boss, Raiders, Followers)",
-        "AI Visiblity",
-        "Boss Visiblity",
-        "Loot chams with default / custom colors"
-      ],
-      "misc": [
-        "No Recoil",
-        "No Stamina",
-        "Custom loot filter"
-      ],
-      "day1": 390,
-      "day7": 1550,
-      "day30": 2950,
-      "day1Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3737025&lang=ru-RU",
-      "day7Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3737026&lang=ru-RU",
-      "day30Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3737027&lang=ru-RU",
-      "popularGames": true,
-      "category": "1",
-      "rating": 7
-    },
-    {
-      "id": "7",
-      "name": "Radar EFT",
-      "gameTypeLink": "eft",
-      "status": "Undetected",
-      "image1": "https://bghack.xyz/static/media/radar3.png",
-      "image2": "https://bghack.xyz/static/media/radar.png",
-      "image3": "https://bghack.xyz/static/media/radar2.png",
-      "image4": "",
-      "logoGame": "https://bghack.xyz/static/media/tarkov__logo.png",
-      "desc": "Приватный радар для EFT, данный радар идет веб-версией. Это означает что после запуска радара вы получите ссылку на изображение, которую вставляете в браузер, открывать можно любом носителе который имеет браузер, будь то телефон, планшет, второй ноутбук. Очень удобно если у Вас есть второй монитор. Также, вы можете делиться ссылкой с друзьями и они так же будут видеть Вашу карту.",
-      "proc": [
-        "Intel",
-        "AMD"
-      ],
-      "os": [
-        "Windows 10"
-      ],
-      "esp": [
-        "Loot",
-        "Players",
-        "Bosses",
-        "Scavs",
-        "Players",
-        "Extractions",
-        "Items Price"
-      ],
-      "day1": 550,
-      "day7": 2950,
-      "day30": 5950,
-      "day1Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3737031&lang=ru-RU",
-      "day7Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3737032&lang=ru-RU",
-      "day30Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3737033&lang=ru-RU",
-      "popularGames": true,
-      "category": "1",
-      "rating": 5
-    },
-    {
-      "id": "8",
-      "name": "BGhack",
-      "gameTypeLink": "eft",
-      "status": "Undetected",
-      "image1": "https://bghack.xyz/static/media/bgh1.png",
-      "image2": "https://bghack.xyz/static/media/bgh2.png",
-      "image3": "",
-      "image4": "",
-      "logoGame": "https://bghack.xyz/static/media/tarkov__logo.png",
-      "desc": "",
-      "proc": [
-        "Intel",
-        "AMD"
-      ],
-      "os": [
-        "Windows 10"
-      ],
-      "ESP": [
-        "ESP Players",
-        "ESP Boss",
-        "ESP Scavs",
-        "ESP Loot"
-      ],
-      "Misc": [
-        "No Recoil",
-        "Big Heads",
-        "Big Loot"
-      ],
-      "day1": 290,
-      "day7": 790,
-      "day30": 1890,
-      "day1Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3737040&lang=ru-RU",
-      "day7Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3737043&lang=ru-RU",
-      "day30Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3737044&lang=ru-RU",
-      "popularGames": true,
-      "category": "1",
-      "rating": 7
-    },
-    {
-      "id": "9",
-      "name": "MASON arcade",
-      "gameTypeLink": "warthunder",
-      "status": "Undetected",
-      "image1": "https://bghack.xyz/static/media/msonwt3.png",
-      "image2": "https://bghack.xyz/static/media/masonwt2.png",
-      "image3": "https://bghack.xyz/static/media/masonwt1.png",
-      "image4": "",
-      "logoGame": "https://bghack.xyz/static/media/pngegg%201.png",
-      "desc": "Чит для War Thunder MSON ARCADE создан исключительно для работы в режиме Аркадных боев. Простой в использовании и не дорогой в цене. Все виды прицелов и маркеров помогут вам с легкостью играть в War Thunder в аркадных боях и занимать первые места.",
-      "proc": [
-        "Intel",
-        "AMD"
-      ],
-      "os": [
-        "Windows 10"
-      ],
-      "aimbot": [
-        "Aim Assist",
-        "Aim FOV",
-        "Moving Adjustment for AIMBOT"
-      ],
-      "Visuals": [
-        "ESP",
-        "Vehicle Names",
-        "Showing Missiles",
-        "Showing Ground Units",
-        "Showing Air Units",
-        "Showing Bots",
-        "Enabling Prediction Marker",
-        "Setting Prediction Spot",
-        "Ignoring spotted enemies / teammates",
-        "Changing Render Distance"
-      ],
-      "misc": [
-        "Showing Gun Ballistics",
-        "Enabling Nightvision in TPS",
-        "Ship Indicator",
-        "Hide Overlay key",
-        "Save CPU"
-      ],
-      "day1": 150,
-      "day7": 350,
-      "day30": 800,
-      "day1Link": "",
-      "day7Link": "",
-      "day30Link": "",
-      "popularGames": true,
-      "category": "2",
-      "rating": 5
-    },
-    {
-      "id": "10",
-      "name": "MASON EAC",
-      "gameTypeLink": "warthunder",
-      "status": "Undetected",
-      "image1": "https://bghack.xyz/static/media/msonwt3.png",
-      "image2": "https://bghack.xyz/static/media/masonwt2.png",
-      "image3": "https://bghack.xyz/static/media/masonwt1.png",
-      "image4": "",
-      "logoGame": "https://bghack.xyz/static/media/pngegg%201.png",
-      "desc": "Чит для War Thunder MSON ARCADE создан исключительно для работы в режиме Аркадных боев. Простой в использовании и не дорогой в цене. Все виды прицелов и маркеров помогут вам с легкостью играть в War Thunder в аркадных боях и занимать первые места.",
-      "proc": [
-        "Intel",
-        "AMD"
-      ],
-      "os": [
-        "Windows 10"
-      ],
-      "aimbot": [
-        "Aim Assist",
-        "Aim FOV",
-        "Moving Adjustment for AIMBOT"
-      ],
-      "Visuals": [
-        "ESP",
-        "Vehicle Names",
-        "Showing Missiles",
-        "Showing Ground Units",
-        "Showing Air Units",
-        "Showing Bots",
-        "Enabling Prediction Marker",
-        "Setting Prediction Spot",
-        "Ignoring spotted enemies / teammates",
-        "Changing Render Distance"
-      ],
-      "misc": [
-        "Showing Gun Ballistics",
-        "Enabling Nightvision in TPS",
-        "Ship Indicator",
-        "Hide Overlay key",
-        "Save CPU"
-      ],
-      "day1": 390,
-      "day7": 1490,
-      "day30": 3490,
-      "day1Link": "",
-      "day7Link": "",
-      "day30Link": "",
-      "popularGames": true,
-      "category": "2",
-      "rating": 5
-    },
-    {
-      "id": "12",
-      "name": "MASON EAC",
-      "gameTypeLink": "warthunder",
-      "status": "Undetected",
-      "image1": "https://bghack.xyz/static/media/msonwt3.png",
-      "image2": "https://bghack.xyz/static/media/masonwt2.png",
-      "image3": "https://bghack.xyz/static/media/masonwt1.png",
-      "image4": "",
-      "logoGame": "https://bghack.xyz/static/media/pngegg%201.png",
-      "desc": "Чит для War Thunder MSON ARCADE создан исключительно для работы в режиме Аркадных боев. Простой в использовании и не дорогой в цене. Все виды прицелов и маркеров помогут вам с легкостью играть в War Thunder в аркадных боях и занимать первые места.",
-      "proc": [
-        "Intel",
-        "AMD"
-      ],
-      "os": [
-        "Windows 10"
-      ],
-      "aimbot": [
-        "Aim Assist",
-        "Aim FOV",
-        "Moving Adjustment for AIMBOT"
-      ],
-      "Visuals": [
-        "ESP",
-        "Vehicle Names",
-        "Showing Missiles",
-        "Showing Ground Units",
-        "Showing Air Units",
-        "Showing Bots",
-        "Enabling Prediction Marker",
-        "Setting Prediction Spot",
-        "Ignoring spotted enemies / teammates",
-        "Changing Render Distance"
-      ],
-      "misc": [
-        "Showing Gun Ballistics",
-        "Enabling Nightvision in TPS",
-        "Ship Indicator",
-        "Hide Overlay key",
-        "Save CPU"
-      ],
-      "day7": 1490,
-      "day7Link": "",
-      "popularGames": true,
-      "category": "2",
-      "rating": 5
-    }
-  ]
+  {
+    "id": "0",
+    "name": "VX",
+    "gameTypeLink": "eft",
+    "status": "Undetected",
+    "image1": "https://bghack.xyz/static/media/vx%204.png",
+    "image2": "https://bghack.xyz/static/media/vx3.png",
+    "image3": "https://bghack.xyz/static/media/vx2.png",
+    "image4": "https://bghack.xyz/static/media/vx%201%20%282%29.png",
+    "logoGame": "https://bghack.xyz/static/media/tarkov__logo.png",
+    "desc": "Представляем вашему вниманию чит по приемлимой цене с хорошим функционалом от надежных разработчиков.",
+    "proc": [
+      "Intel",
+      "AMD"
+    ],
+    "os": [
+      "Windows 10"
+    ],
+    "aimbot": [
+      "Silent Aimbot",
+      "Vector Aimbot",
+      "Prediction",
+      "Humanized Smoothing",
+      "Randomization Settings",
+      "Customizable FOV",
+      "Bone Selection",
+      "Different Aim Keys"
+    ],
+    "esp": [
+      "Scavs Raiders PMC Player Scavs",
+      "Bone Esp",
+      "Friend system",
+      "Name Esp",
+      "Player Weapons",
+      "Health Bar",
+      "Distance",
+      "Item Esp",
+      "Loot Filter",
+      "Custom Loot Filter",
+      "Grenade Esp",
+      "Crosshair Esp",
+      "Display KD",
+      "Loadout Value",
+      "Display Loadout",
+      "Extract Esp"
+    ],
+    "misc": [
+      "No Recoil",
+      "No Sway",
+      "Instant ADS",
+      "Unlimited Stamina",
+      "Air Walk",
+      "Thermal Vision",
+      "Night Vision",
+      "Loot Through Walls",
+      "Moon Jump",
+      "No Visor"
+    ],
+    "day1": 390,
+    "day7": 1950,
+    "day30": 3900,
+    "day1Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3722743&lang=ru-RU",
+    "day7Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3735524&lang=ru-RU",
+    "day30Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3735529&lang=ru-RU",
+    "popularGames": true,
+    "category": "1",
+    "rating": 9
+  },
+  {
+    "id": "1",
+    "name": "Chams",
+    "gameTypeLink": "eft",
+    "status": "Undetected",
+    "image1": "https://bghack.xyz/static/media/619f0c94090c412a4a22ceb2d58010279a3aea0f.jpg",
+    "image2": "",
+    "image3": "https://bghack.xyz/static/media/1.png",
+    "image4": "https://bghack.xyz/static/media/chams_47_7j1oKAUtsH2HooCQcL9k.png",
+    "logoGame": "https://bghack.xyz/static/media/tarkov__logo.png",
+    "desc": "Представляю вашему вниманию продукт EFT ESP  ЧАМС— чит для Таркова, который содержит в себе только вх статус undetected составляет более полу года. Ниразу не детектился, 0 банов, На данный момент самый безопасный софт.",
+    "proc": [
+      "Intel",
+      "AMD"
+    ],
+    "os": [
+      "Windows 10"
+    ],
+    "esp": [
+      "Chams Player",
+      "Chams Bots",
+      "Chams Boss"
+    ],
+    "day1": 290,
+    "day7": 900,
+    "day30": 1800,
+    "day1Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3735829&lang=ru-RU",
+    "day7Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3735830&lang=ru-RU",
+    "day30Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3735831&lang=ru-RU",
+    "popularGames": true,
+    "category": "1",
+    "rating": 4
+  },
+  {
+    "id": "2",
+    "name": "BSOD",
+    "gameTypeLink": "eft",
+    "status": "Undetected",
+    "image1": "https://bghack.xyz/static/media/BSOD%20VIS.png",
+    "image2": "https://bghack.xyz/static/media/BSOD%20AIM.png",
+    "image3": "https://bghack.xyz/static/media/BSOD.png",
+    "image4": "https://bghack.xyz/static/media/BSOD%20MISC.png",
+    "logoGame": "https://bghack.xyz/static/media/tarkov__logo.png",
+    "desc": "Хороший чит с достойным функционалом по небольшой цене, подходит для рмт и легит игры.",
+    "proc": [
+      "Intel",
+      "AMD"
+    ],
+    "os": [
+      "Windows 10"
+    ],
+    "aimbot": [
+      "Player Aimbot",
+      "Scavenger Toggle",
+      "Aimbot FOV",
+      "Customizable FOV Size And Style",
+      "Custom Aimbone",
+      "Custom Distance"
+    ],
+    "esp": [
+      "Player Name",
+      "Health Bar",
+      "Skeleton",
+      "Scavengers (Boss, Raiders, Followers)",
+      "Corpse",
+      "Friendly Player Distinction ",
+      "Custom Draw Distance",
+      "Show Items",
+      "Price Scale",
+      "Visuals Containers",
+      "Custom Draw Distance",
+      "Price Scale Based On Total Container Cost",
+      "PMC Extracts",
+      "Grenade Box And Name"
+    ],
+    "misc": [
+      "Remove Recoil",
+      "No Weapon Sway",
+      "Remove Stamina Loss",
+      "Remove Helmet Visor",
+      "Thermal Vision",
+      "Night Vision"
+    ],
+    "day1": 490,
+    "day7": 1490,
+    "day30": 2990,
+    "day1Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3735860&lang=ru-RU",
+    "day7Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3736783&lang=ru-RU",
+    "day30Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3736785&lang=ru-RU",
+    "popularGames": true,
+    "category": "1",
+    "rating": 5
+  },
+  {
+    "id": "3",
+    "name": "Sugar",
+    "gameTypeLink": "eft",
+    "status": "Undetected",
+    "image1": "https://bghack.xyz/static/media/sugareft3.png",
+    "image2": "https://bghack.xyz/static/media/sugar.png",
+    "image3": "https://bghack.xyz/static/media/sugar1.png",
+    "image4": "https://bghack.xyz/static/media/sugar4.png",
+    "logoGame": "https://bghack.xyz/static/media/tarkov__logo.png",
+    "desc": "Проверенный приватный  чит SUGAR для Escape From Tarkov, некоторый функции которого взяты из популярного ABS Hack для EFT. Данное ПО не садит FPS и отлично подходит для легитной и полу-рейдж игры.",
+    "proc": [
+      "Intel",
+      "AMD"
+    ],
+    "os": [
+      "Windows 10"
+    ],
+    "aimbot": [
+      "Enable (Silent)",
+      "Bone (Head/Neck/Chest)",
+      "Aimbot FOV"
+    ],
+    "esp": [
+      "Max distance",
+      "Type",
+      "Box",
+      "Chams",
+      "Skeleton",
+      "Health Bar",
+      "Distance",
+      "Armor bar",
+      "Level",
+      "K/D",
+      "Price"
+    ],
+    "misc": [
+      "Remove Recoil",
+      "No Weapon Sway",
+      "Remove Stamina Loss",
+      "Remove Helmet Visor",
+      "Hight jump",
+      "Instant examine",
+      "Instant search",
+      "Loot through walls"
+    ],
+    "day1": 490,
+    "day7": 2490,
+    "day30": 3990,
+    "day1Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3736799&lang=ru-RU",
+    "day7Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3736800&lang=ru-RU",
+    "day30Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3736801&lang=ru-RU",
+    "popularGames": true,
+    "category": "1",
+    "rating": 4
+  },
+  {
+    "id": "4",
+    "name": "Neverwin ",
+    "gameTypeLink": "eft",
+    "status": "Undetected",
+    "image1": "https://bghack.xyz/static/media/neverwin.png",
+    "image2": "https://bghack.xyz/static/media/neverwin1.png",
+    "image3": "https://bghack.xyz/static/media/neverwin2.png",
+    "image4": "",
+    "logoGame": "https://bghack.xyz/static/media/tarkov__logo.png",
+    "desc": "Интересный чит для EFT NeverWin.  Который имеет все необходимые функции. Отличный аим,и фильтр лута.",
+    "proc": [
+      "Intel",
+      "AMD"
+    ],
+    "os": [
+      "Windows 10"
+    ],
+    "aimbot": [
+      "Player Aimbot",
+      "Scavenger Toggle",
+      "Aimbot FOV",
+      "Customizable FOV Size And Style",
+      "Custom Aimbone",
+      "Custom Distance",
+      "Engine Prediction",
+      "Auto Shoot",
+      "Silent Melee",
+      "Custom Aim Bone",
+      "Visibility Check"
+    ],
+    "esp": [
+      "Player Name",
+      "Health Bar",
+      "Skeleton",
+      "Scavengers (Boss, Raiders, Followers)",
+      "Corpse",
+      "Friendly Player Distinction ",
+      "Custom Draw Distance",
+      "Show Items",
+      "Price Scale",
+      "Visuals Containers",
+      "Custom Draw Distance",
+      "Price Scale Based On Total Container Cost",
+      "PMC Extracts",
+      "Grenade Box And Name"
+    ],
+    "misc": [
+      "Remove Recoil",
+      "No Weapon Sway",
+      "Remove Stamina Loss",
+      "Remove Helmet Visor",
+      "Thermal Vision",
+      "Night Vision",
+      "No Animations",
+      "No Malfunctions",
+      "Gun Laser",
+      "Quick Load / Unload",
+      "No Camera Shake Effects",
+      "Double Search",
+      "Force Pickup Quest Items",
+      "Ping Bypass"
+    ],
+    "day1": 590,
+    "day7": 3590,
+    "day30": 6990,
+    "day1Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3736828&lang=ru-RU",
+    "day7Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3736829&lang=ru-RU",
+    "day30Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3736830&lang=ru-RU",
+    "popularGames": true,
+    "category": "1",
+    "rating": 4
+  },
+  {
+    "id": "5",
+    "name": "MSON Private ",
+    "gameTypeLink": "eft",
+    "status": "Undetected",
+    "image1": "https://bghack.xyz/static/media/mson3.png",
+    "image2": "https://bghack.xyz/static/media/mson1.png",
+    "image3": "https://bghack.xyz/static/media/mson2.png",
+    "image4": "",
+    "logoGame": "https://bghack.xyz/static/media/tarkov__logo.png",
+    "desc": "Предcтавляем вам слотовый приватный чит MSON для Escape From Tarkov. Данный чит является одним из мощнейших на рынке софтов для Escape From Tarkov и имеет очень интересные функции, и очень хороший фильтр лута. Также, данный софт продается исключительно по слотам, и только для наших постоянных клиентов. если вы таковым не являетесь, вам будет отказано в продаже.",
+    "proc": [
+      "Intel",
+      "AMD"
+    ],
+    "os": [
+      "Windows 10"
+    ],
+    "aimbot": [
+      " Silent aim",
+      "Aimbot FOV",
+      "Customizable FOV Size And Style",
+      " Aim spot"
+    ],
+    "esp": [
+      "Bounding box",
+      "Health Bar",
+      "Skeleton",
+      "Show Name",
+      "Show weapon",
+      "Show grenades",
+      "Show extractions",
+      "Show Items",
+      "Price Scale",
+      "Visuals Containers",
+      "Custom Draw Distance",
+      "Price Scale Based On Total Container Cost"
+    ],
+    "misc": [
+      "Remove Recoil",
+      "No Weapon Sway",
+      " Interactive noclip",
+      "Remove Helmet Visor",
+      "Thermal Vision",
+      "Night Vision",
+      "Zoom",
+      "Noclip gun",
+      "Speed hack",
+      "Fast magazine load / reload",
+      "Multi search for loot",
+      "Instant examine for loot",
+      "Hide overlay key",
+      "Save cpu"
+    ],
+    "closedCheat": true,
+    "day30": 9990,
+    "popularGames": true,
+    "category": "1",
+    "rating": 3
+  },
+  {
+    "id": "6",
+    "name": "Chams Plus ",
+    "gameTypeLink": "eft",
+    "status": "Undetected",
+    "image1": "https://bghack.xyz/static/media/chamsfull.png",
+    "image2": "https://bghack.xyz/static/media/chamsfull2.png",
+    "image3": "https://bghack.xyz/static/media/chamsfullmenu.png",
+    "image4": "",
+    "logoGame": "https://bghack.xyz/static/media/tarkov__logo.png",
+    "desc": "Представляем к вашему вниманию продукт Chams full, это улучшенная версия, с классными функциями, всеми любимого ESP Chams,который на протяжении года держит статус Undetected.",
+    "proc": [
+      "Intel",
+      "AMD"
+    ],
+    "os": [
+      "Windows 10"
+    ],
+    "esp": [
+      "Teammate Visiblity",
+      "PMC Players Visiblity",
+      "Scavenger Players Visiblity",
+      "Scavengers (Boss, Raiders, Followers)",
+      "AI Visiblity",
+      "Boss Visiblity",
+      "Loot chams with default / custom colors"
+    ],
+    "misc": [
+      "No Recoil",
+      "No Stamina",
+      "Custom loot filter"
+    ],
+    "day1": 390,
+    "day7": 1550,
+    "day30": 2950,
+    "day1Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3737025&lang=ru-RU",
+    "day7Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3737026&lang=ru-RU",
+    "day30Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3737027&lang=ru-RU",
+    "popularGames": true,
+    "category": "1",
+    "rating": 7
+  },
+  {
+    "id": "7",
+    "name": "Radar EFT",
+    "gameTypeLink": "eft",
+    "status": "Undetected",
+    "image1": "https://bghack.xyz/static/media/radar3.png",
+    "image2": "https://bghack.xyz/static/media/radar.png",
+    "image3": "https://bghack.xyz/static/media/radar2.png",
+    "image4": "",
+    "logoGame": "https://bghack.xyz/static/media/tarkov__logo.png",
+    "desc": "Приватный радар для EFT, данный радар идет веб-версией. Это означает что после запуска радара вы получите ссылку на изображение, которую вставляете в браузер, открывать можно любом носителе который имеет браузер, будь то телефон, планшет, второй ноутбук. Очень удобно если у Вас есть второй монитор. Также, вы можете делиться ссылкой с друзьями и они так же будут видеть Вашу карту.",
+    "proc": [
+      "Intel",
+      "AMD"
+    ],
+    "os": [
+      "Windows 10"
+    ],
+    "esp": [
+      "Loot",
+      "Players",
+      "Bosses",
+      "Scavs",
+      "Players",
+      "Extractions",
+      "Items Price"
+    ],
+    "day1": 550,
+    "day7": 2950,
+    "day30": 5950,
+    "day1Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3737031&lang=ru-RU",
+    "day7Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3737032&lang=ru-RU",
+    "day30Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3737033&lang=ru-RU",
+    "popularGames": true,
+    "category": "1",
+    "rating": 5
+  },
+  {
+    "id": "8",
+    "name": "BGhack",
+    "gameTypeLink": "eft",
+    "status": "Undetected",
+    "image1": "https://bghack.xyz/static/media/bgh1.png",
+    "image2": "https://bghack.xyz/static/media/bgh2.png",
+    "image3": "",
+    "image4": "",
+    "logoGame": "https://bghack.xyz/static/media/tarkov__logo.png",
+    "desc": "",
+    "proc": [
+      "Intel",
+      "AMD"
+    ],
+    "os": [
+      "Windows 10"
+    ],
+    "ESP": [
+      "ESP Players",
+      "ESP Boss",
+      "ESP Scavs",
+      "ESP Loot"
+    ],
+    "Misc": [
+      "No Recoil",
+      "Big Heads",
+      "Big Loot"
+    ],
+    "day1": 290,
+    "day7": 790,
+    "day30": 1890,
+    "day1Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3737040&lang=ru-RU",
+    "day7Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3737043&lang=ru-RU",
+    "day30Link": "https://www.digiseller.market/asp2/pay_wm.asp?id_d=3737044&lang=ru-RU",
+    "popularGames": true,
+    "category": "1",
+    "rating": 7
+  },
+  {
+    "id": "9",
+    "name": "MASON arcade",
+    "gameTypeLink": "warthunder",
+    "status": "Undetected",
+    "image1": "https://bghack.xyz/static/media/msonwt3.png",
+    "image2": "https://bghack.xyz/static/media/masonwt2.png",
+    "image3": "https://bghack.xyz/static/media/masonwt1.png",
+    "image4": "",
+    "logoGame": "https://bghack.xyz/static/media/pngegg%201.png",
+    "desc": "Чит для War Thunder MSON ARCADE создан исключительно для работы в режиме Аркадных боев. Простой в использовании и не дорогой в цене. Все виды прицелов и маркеров помогут вам с легкостью играть в War Thunder в аркадных боях и занимать первые места.",
+    "proc": [
+      "Intel",
+      "AMD"
+    ],
+    "os": [
+      "Windows 10"
+    ],
+    "aimbot": [
+      "Aim Assist",
+      "Aim FOV",
+      "Moving Adjustment for AIMBOT"
+    ],
+    "Visuals": [
+      "ESP",
+      "Vehicle Names",
+      "Showing Missiles",
+      "Showing Ground Units",
+      "Showing Air Units",
+      "Showing Bots",
+      "Enabling Prediction Marker",
+      "Setting Prediction Spot",
+      "Ignoring spotted enemies / teammates",
+      "Changing Render Distance"
+    ],
+    "misc": [
+      "Showing Gun Ballistics",
+      "Enabling Nightvision in TPS",
+      "Ship Indicator",
+      "Hide Overlay key",
+      "Save CPU"
+    ],
+    "day1": 150,
+    "day7": 350,
+    "day30": 800,
+    "day1Link": "",
+    "day7Link": "",
+    "day30Link": "",
+    "popularGames": true,
+    "category": "2",
+    "rating": 5
+  },
+  {
+    "id": "10",
+    "name": "MASON EAC",
+    "gameTypeLink": "warthunder",
+    "status": "Undetected",
+    "image1": "https://bghack.xyz/static/media/msonwt3.png",
+    "image2": "https://bghack.xyz/static/media/masonwt2.png",
+    "image3": "https://bghack.xyz/static/media/masonwt1.png",
+    "image4": "",
+    "logoGame": "https://bghack.xyz/static/media/pngegg%201.png",
+    "desc": "Чит для War Thunder MSON ARCADE создан исключительно для работы в режиме Аркадных боев. Простой в использовании и не дорогой в цене. Все виды прицелов и маркеров помогут вам с легкостью играть в War Thunder в аркадных боях и занимать первые места.",
+    "proc": [
+      "Intel",
+      "AMD"
+    ],
+    "os": [
+      "Windows 10"
+    ],
+    "aimbot": [
+      "Aim Assist",
+      "Aim FOV",
+      "Moving Adjustment for AIMBOT"
+    ],
+    "Visuals": [
+      "ESP",
+      "Vehicle Names",
+      "Showing Missiles",
+      "Showing Ground Units",
+      "Showing Air Units",
+      "Showing Bots",
+      "Enabling Prediction Marker",
+      "Setting Prediction Spot",
+      "Ignoring spotted enemies / teammates",
+      "Changing Render Distance"
+    ],
+    "misc": [
+      "Showing Gun Ballistics",
+      "Enabling Nightvision in TPS",
+      "Ship Indicator",
+      "Hide Overlay key",
+      "Save CPU"
+    ],
+    "day1": 390,
+    "day7": 1490,
+    "day30": 3490,
+    "day1Link": "",
+    "day7Link": "",
+    "day30Link": "",
+    "popularGames": true,
+    "category": "2",
+    "rating": 5
+  }
+]
